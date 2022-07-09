@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gabriel_faiad@hotmail.com
+	name = gabrielcrocci
